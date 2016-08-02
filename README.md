@@ -4,9 +4,9 @@
 >This is a Gestures password Demo,Implements a simple set password and login validation functions.
 
 ## Show
-All result is show in code
-![Alt text](./1.gif)
 
+![Alt text](./1.gif)
+>ps:All result is show in code
 
 ## MainClass
 
